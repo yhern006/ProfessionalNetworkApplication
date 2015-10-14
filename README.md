@@ -15,5 +15,5 @@ ProfNetwork.java is where most of the implementation was done. It includes
 an embedded SQL utility class that is designed to work with PostgreSQL 
 JDBC drivers.
 
-Final Project Documentation includes implementation and design details 
+Final Project Documentation includes implementation/design details 
 and technical difficulties we ran into.
